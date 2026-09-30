@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    object-fit: cover;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+.home .row .home-img img{
+    width: 350px;
+    height: 400px;
+}
+.about .about-img img{
+    width: 450px;
+    height: 300px;
+
+}
+.progrees{
+    height: 10px;
+}
+#project img{
+    height: 220px;
+    object-fit: cover;
+}
+.card{
+    transition: 0.3s;
+
+}
+.card:hover{
+    transform: translateY(-5px);
+}
+.progrees{
+    height: 10px;
+}
